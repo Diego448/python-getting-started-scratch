@@ -1,0 +1,11 @@
+Introducción a la programación en Python
+1.Operaciones aritméticas
+2.Variables
+    Declaración de variables
+    Asignación de valores
+    Operaciones con variables
+3.Tipos de datos
+    Numeros
+    Cadenas (strings)
+    Listas
+4.Entrada y salida de valores
